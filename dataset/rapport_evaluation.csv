@@ -1,0 +1,46 @@
+image;nom_correct;predit;score;top1;reconnu;statut;est_arabe
+amoxil.jpg;AMOXIL;AMOXIL;89.14;True;True;correct;False
+astaf.jpg;ASTAPH;ASTAPH;76.67;True;True;correct;False
+astaf_ar.jpg;ASTAPH;ASTAPH;76.0;True;True;correct;True
+azix.jpg;AZIX;AZIX;100.0;True;True;correct;False
+bisolvon.jpg;BISOLVON;BISOLVON;75.0;True;True;correct;False
+calcibronat.jpg;CALCIBRONAT;CALCIBRONAT;93.12;True;True;correct;False
+cebesine.jpg;CEBESINE;CEBESINE;90.0;True;True;correct;False
+CIPRO_LP_500MG_3CP.jpg;CIFLOXINE;CIFLOXINE;93.44;True;True;correct;False
+climaston.jpg;CLIMASTON;CLIMASTON;73.33;True;True;correct;False
+CRESTOR_ROSUVASTATINE_5MG_30CP.jpg;CRESTOR;CRESTOR;100.0;True;True;correct;False
+Diamicron.jpg;DIAMICRON;DIAMICRON;93.48;True;True;correct;False
+gonal.jpg;GONAL-F 150 UI;GONAL-F 150 UI;78.9;True;True;correct;False
+gonal_f_ar.jpg;GONAL-F 150 UI;NON RECONNU;0.0;False;False;rejeté;True
+GYNO_CANESTEN_1PERCENT_35G.jpg;GYNO CANESTEN;GYNO CANESTEN;80.0;True;True;correct;False
+imodium.jpg;IMODIUM;IMODIUM;85.56;True;True;correct;False
+madecassol.jpg;MADECASSOL;MADECASSOL;95.71;True;True;correct;False
+MEDIVEINE_300MG_60CP.jpg;MEDIVEINE;MEDIVEINE;93.89;True;True;correct;False
+metrozal.jpg;METROZAL;METROZAL;97.5;True;True;correct;False
+metrozal_ar.jpg;METROZAL;METROZAL;94.0;True;True;correct;True
+neomox.jpg;NEOMOX;NEOMOX;97.0;True;True;correct;False
+neomox_ar.jpg;NEOMOX;NEOMOX;86.67;True;True;correct;True
+NORMACOL_LAVEMENT_PHOSPHATE_130ML.jpg;NORMACOL LAVEMENT AD;NORMACOL LAVEMENT AD;93.33;True;True;correct;False
+oradexon.jpg;ORADEXON;ORADEXON;90.21;True;True;correct;False
+PURSENNIDE_SENNOSIDES_20MG_20CP.jpg;PURSENNIDE;PURSENNIDE;100.0;True;True;correct;False
+rhinathiol.jpg;RHINATHIOL ENFANT ET NOURRISSON;RHINATHIOL ENFANT ET NOURRISSON;96.0;True;True;correct;False
+spasmopriv.jpg;SPASMOPRIV;SPASMOPRIV;100.0;True;True;correct;False
+spasmopriv_ar.jpg;SPASMOPRIV;SPASMOPRIV;83.61;True;True;correct;True
+SUPRIMASE_FLUCONAZOLE_150MG_1CP.jpg;SUPRIMASE;SUPRIMASE;100.0;True;True;correct;False
+tareg.jpg;TAREG;TAREG;76.67;True;True;correct;False
+tavanic.jpg;TAVANIC;TAVANIC;100.0;True;True;correct;False
+tobradex.jpg;TOBRADEX;TOBRADEX;89.65;True;True;correct;False
+trezan.jpg;TRE-ZEN 20 MG;TRE-ZEN 20 MG;78.57;True;True;correct;False
+trezen_ar.jpg;TRE-ZEN 20 MG;TRE-ZEN 20 MG;70.0;True;True;correct;True
+trusopt.jpg;TRUSOPT;TRUSOPT;94.29;True;True;correct;False
+un_alfa.jpg;UN-ALFA 1 ΜG;UN-ALFA 1 ΜG;100.0;True;True;correct;False
+xalatan.jpg;XALATAN;XALATAN;92.86;True;True;correct;False
+vitamine_c.jpg;DOLIPRANEVITAMINEC;DOLIPRANEVITAMINEC;74.0;True;True;correct;False
+zeclar.jpg;ZECLAR;ZECLAR;93.89;True;True;correct;False
+dolamine.jpg;DOLAMINE;DOLAMINE;53.77;True;True;correct;False
+doliprane_ar.jpg;DOLIPRANE;DOLIPRANE;72.5;True;True;correct;True
+eloxatine.jpg;ELOXATINE 5 MG/ML;ELOXATINE 5 MG/ML;73.41;True;True;correct;False
+kataflam.jpg;CATAFLAM;CATAFLAM;87.33;True;True;correct;False
+letrozol.jpg;LETROZOL GT;LETROZOL GT;83.57;True;True;correct;False
+respridal.webp;RISPERDAL;RISPERDAL;94.29;True;True;correct;False
+systral.jpg;SYSTRAL;SYSTRAL;80.0;True;True;correct;False

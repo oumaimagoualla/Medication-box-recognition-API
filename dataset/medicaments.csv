@@ -1,0 +1,101 @@
+﻿CODE;NOM;الاسم;DCI1;معلومات الدواء;DOSAGE1;UNITE_DOSAGE1;وحدة الجرعة;FORME;صيغة;PRESENTATION;شكل الدواء 
+6118000170211;GYNO CANESTEN;جينو كانستين ;CLOTRIMAZOLE;كلوتريمازول;1;%;%;CREME VAGINALE;كريم مهبلي;1 TUBE 35 G;أنبوب واحد 35 غرام
+6118000210030;CIFLOXINE;سيفلوكس;CIPROFLOXACINE;سيبروفلوكساسين;500;MG;ملغ;COMPRIME ENROBE GASTRO-RESISTANT;أقراص مغلفة مقاومة للمعدة;1 BOITE 10 COMPRIME ENROBE;علبة واحدة تحتوي على 10 أقراص مغلفة
+6118000070795;SUPRIMASE;سوبرماز;FLUCONAZOLE;فلوكونازول;150;MG;ملغ;GELULE;كبسولة;1 BOITE 1 GELULE;علبة واحدة تحتوي على كبسولة واحدة
+6118000020141;MEDIVEINE;ميديافن;DIOSMINE;ديوسمين;300;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 60 COMPRIME;علبة واحدة تحتوي على 60 قرصًا
+6118001120758;PURSENNIDE;بورسينيد;SENOSIDES CALCIQUES;سِينوسيدات الكالسيوم;20;MG;ملغ;COMPRIME ENROBE;أقراص مغلفة;1 BOITE 20 COMPRIME ENROBE;علبة واحدة تحتوي على 20 قرصًا مغلفًا
+6118001100354;NORMACOL LAVEMENT AD;نورماكول ;PHOSPHATE MONOSODIQUE / PHOSPHATE DISODIQUE;فوسفات أحادي الصوديوم / فوسفات ثنائي الصوديوم;23.66 / 10.4;G / G;غ;SOLUTION RECTALE;محلول شرجي;1 FLACON 130 ML;قارورة واحدة 130 مل
+6118010116278;CRESTOR;كريستور;ROSUVASTATINE;روزوفاستاتين;5;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000100058;DIAMICRON;دياميكرون;GLICLAZIDE;غليكلازيد;30;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000011835;ZECLAR;زيكلار;CLARITHROMYCINE;كلاريثروميسين;250;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 10 COMPRIME;علبة واحدة تحتوي على 10 أقراص
+6118000030683;CALCIBRONAT;كالسيبرونات;BROMOGALACTOGLUCONATE DE CALCIUM;بروموغالاكتوغلوكونات الكالسيوم;2;G;غ;COMPRIME EFFERVESCENT;أقراص فوّارة;1 BOITE 20 COMPRIME EFFERVESCENT;علبة واحدة تحتوي على 20 قرصًا فوّارًا
+6118000190707;NEOMOX;نيوموكس;AMOXICILLINE;أموكسيسيلين;250;MG;ملغ;POUDRE POUR SUSPENSION BUVABLE;مسحوق لتحضير معلق فموي;1 FLACON 100  ML;قارورة واحدة 100 مل
+6118001070602;TOBRADEX;توبرادكس ;TOBRAMYCINE / DEXAMETHASONE;توبرامايسين / ديكساميثازون;3 / 1;MG / MG;ملغ;POMMADE OPHTALMIQUE;مرهم عيني;1 TUBE 3.5 G;أنبوب واحد 3.5 غرام
+6118000040125;BISOLVON;بيسلفون;BROMHEXINE;برومهيكسين;0.16;%;%;SOLUTION BUVABLE;محلول فموي;1 FLACON 100 ML;قارورة واحدة 100 مل
+6118000170389;MADECASSOL;ماديكاسول;CENTELLA ASIATICA;سنتيلا أسياتيكا;1;%;%;POMMADE;مرهم;1 TUBE 10 G;أنبوب واحد 10 غرامات
+6118000040712;SPASMOPRIV;سبازموبريف;MEBEVERINE;ميبيفيرين;200;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000190028;ASTAPH ;أسطاف;FLUCLOXACILLINE;فلوكلوكساسيلين;500;MG;ملغ;GELULE;كبسولة;1 BOITE 24 GELULE;علبة واحدة تحتوي على 24 كبسولة
+6118000161028;AMOXIL;أموكسيل;AMOXICILLINE;أموكسيسيلين;250;MG;ملغ;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118001270194;CEBESINE;سيبيسين;OXYBUPROCAINE;أوكسيبوبروكايين;0.4;%;%;COLLYRE;قطرة للعين;1 FLACON 10 ML;قارورة واحدة 10 مل
+6118000190950;METROZAL;ميتروزال;METRONIDAZOLE;ميترونيدازول;500;MG;ملغ;OVULE;تحاميل مهبلية;1 BOITE 20 OVULE;علبة واحدة تحتوي على 20 تحميلة مهبلية
+6118000041467;TRE-ZEN 20 MG;تريزان;PAROXETINE;باروكستين;20;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 15 COMPRIME SECABLE;علبة واحدة تحتوي على 15 قرصًا قابلاً للكسر
+6118000040941;AZIX;أزيكس;AZITHROMYCINE;أزيثروميسين;500;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 3 COMPRIME;علبة واحدة تحتوي على 3 أقراص 
+6118001120482;XALATAN;زالاتان;LATANOPROST;لاتانوبروست;0.005;%;%;COLLYRE;قطرة للعين;1 FLACON 2.5 ML;قارورة واحدة 2.5 مل
+6118000080787;ORADEXON;أوراديكسون;DEXAMETHASONE;ديكساميثازون;0.5;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
+6118010000218;UN-ALFA 1 µG;ون الفا;ALFACALCIDOL;ألفاكالسيدول;1;µG;ميكروغرام;CAPSULE;كبسولة;1 BOITE 30 CAPSULE;علبة واحدة تحتوي على 30 كبسولة
+6118001160297;TRUSOPT;ترسوبت;DORZOLAMIDE;دورزولاميد;2;%;%;COLLYRE;قطرة للعين;1 FLACON 5 ML;قارورة واحدة 5 مل
+6118001080687;TAVANIC;تافانيك;LEVOFLOXACINE;ليفوفلوكساسين;500;MG;ملغ;SOLUTION POUR PERFUSION;محلول للتسريب الوريدي;1 FLACON 100 ML;قارورة واحدة 100 مل
+6118000061434;RHINATHIOL ENFANT ET NOURRISSON;ريناتيول;CARBOCYSTEINE;كاربوسيستين;2;%;%;SIROP;شراب;1 FLACON 125 ML;قارورة واحدة 125 مل
+6118001030316;TAREG;تريغ;VALSARTAN;فالسارتان;80;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 28 COMPRIME PELLICULE;علبة واحدة تحتوي على 28 قرصًا مغلفًا
+6118010032820;GONAL-F 150 UI;غونال اف;FOLLITROPINE ALFA;فوليتروبين ألفا;150;UI;وحدة;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118001180653;CLIMASTON;كليماستون;ESTRADIOL / DYDROGESTERONE;إستراديول / ديدروجيستيرون;1 / 5;MG / MG;ملغ/ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 28 COMPRIME PELLICULE;علبة واحدة تحتوي على 28 قرصًا مغلفًا
+6118000010845;IMODIUM;إيموديوم،;LOPERAMIDE;لوبيراميد;2;MG;ملغ;GELULE;كبسولة;1 BOITE 20 GELULE;علبة واحدة تحتوي على 20 كبسولة
+6118010120770;LETROZOL GT;ليتروزول جي تي;LETROZOLE;ليتروزول;2.5;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 60 COMPRIME SECABLE;علبة واحدة تحتوي على 60 قرصًا قابلاً للكسر
+6118000041252;DOLIPRANEVITAMINEC;دوليبران فيتامين c;PARACETAMOL / ACIDE ASCORBIQUE (VITAMINE C);باراسيتامول / حمض الأسكوربيك (فيتامين C);150/500;MG/MG; ملغ/ملغ ; COMPRIME EFFERVESCENT ; أقراص فوّارة ;1 BOITE 16 COMPRIME EFFERVESCENT;علبة تحتوي على 16 قرصًا فوّارًا
+6118000040361;DOLIPRANE;دوليبران;PARACETAMOL;باراسيتامول;1;G ;غ;COMPRIME EFFERVESCENT;قرص فوّار;1 BOITE 10 COMPRIME;علبة تحتوي على 10 أقراص
+6118001181889;NOLVADEX;نولفادكس;TAMOXIFENE;تاموكسيفين;10;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118001120833;SANDOSTATINE ;ساندوستاتين;OCTREOTIDE;أوكتريوتيد;100;µG;ميكروغرام;SOLUTION INJECTABLE;محلول للحقن;1 BOITE 6 AMPOULE;علبة واحدة تحتوي على 6 أمبولات
+6118000050247;BIAFINE;بيافين;TROLAMINE;تريولامين;0.67;G;غ;EMULSION POUR APPLICATION LOCALE;مستحلب للاستعمال الموضعي;1 TUBE 93 G;أنبوب واحد 93 غرام
+6118000070801;SUPRIMASE;سوبرماز;FLUCONAZOLE;فلوكونازول;50;MG;ملغ;GELULE;كبسولة;1 BOITE 7 GELULE;علبة واحدة تحتوي على 7 كبسولات
+6118000250364;UNASYN;أوناسين;SULTAMICILLINE;سولتاميسيلين;375;MG;ملغ;COMPRIME ENROBE;أقراص مغلفة;1 BOITE 8 COMPRIME;علبة واحدة تحتوي على 8 أقراص
+6118001230570;FOLINATE DE CALCIUM AGUETTANT 50 MG;فولينات الكالسيوم أغيتان;FOLINATE DE CALCIUM;فولينات الكالسيوم;50;MG;ملغ;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 10 FLACON;علبة واحدة تحتوي على 10 قوارير
+6118001160389;SINGULAIR;سينغولير;MONTELUKAST;مونتيلوكاست;4;MG;ملغ;GRANULE;حبيبات;1 BOITE 28 SACHET;علبة واحدة تحتوي على 28 كيسًا
+6118001081530;ELOXATINE 5 MG/ML;إلوكساتين;OXALIPLATINE;أوكساليبلاتين;50;MG;ملغ;POUDRE POUR SOLUTION POUR PERFUSION;مسحوق لتحضير محلول للتسريب الوريدي;1 BOITE 1 FLACON 10 ML;علبة واحدة تحتوي على قارورة واحدة 10 مل
+6118000030744;SANDOCAL;ساندوكال;CALCIUM;كالسيوم;500;MG;ملغ;POUDRE POUR SUSPENSION BUVABLE;مسحوق لتحضير معلق فموي;1 BOITE 10 SACHET;علبة واحدة تحتوي على 10 أكياس
+6118000080985;TOPAAL;توبال;ACIDE ALGINIQUE / ALUMINIUM HYDROXYDE;حمض الألجينيك / هيدروكسيد الألومنيوم;200 / 30;MG / MG;ملغ/ملغ;COMPRIME A CROQUER;أقراص قابلة للمضغ;1 BOITE 42 COMPRIME;علبة واحدة تحتوي على 42 قرصًا
+6118000011538;STIMOL;ستيمول;CITRULINE MALEATE;سيترولين مالات;1;G;غ;SOLUTION BUVABLE;محلول فموي;1 BOITE 20 AMPOULE BUVABLE;علبة واحدة تحتوي على 20 أمبولة فموية
+6118001100606;OSSOPAN;أوسوبان;COMPLEXE OSSEINE HYDROXYAPATITE;مركب الأوسيين والهيدروكسي أباتيت;600;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000230120;INALAP 5 MG;إينالاب;ENALAPRIL;إنالابريل;5;MG;ملغ;COMPRIME;أقراص;1 BOITE 28 COMPRIME;علبة واحدة تحتوي على 28 قرصًا
+6118010035609;VACCIN ATNTIDIPHTERIQUE ANTITETANIQUE;لقاح ضد الدفتيريا والتيتانوس;ANATOXINE TETANIQUE / ANATOXINE DIPHTERIQUE;ذوفان الكزاز / ذوفان الدفتيريا;;NA / NA;غير متوفر / غير متوفر;PREPARATION INJECTABLE;مستحضر للحقن;1 AMPOULE 1 ML;أمبولة واحدة 1 مل
+6118010020209;NOMYC;نوميك;FLUCONAZOLE;فلوكونازول;150;MG;ملغ;GELULE;كبسولة;1 BOITE 1 GELULE;علبة واحدة تحتوي على كبسولة واحدة
+6118010019715;CORTIVENT;كورتيفنت;BECLOMETASONE;بيكلوميثازون;50;µG;ميكروغرام;SUSPENSION POUR INHALATION;معلق للاستنشاق;1 FLACON 200 DOSE;قارورة واحدة تحتوي على 200 جرعة
+6118000220053;CATAFLAM;كاتافلام;DICLOFENAC;ديكلوفيناك;50;MG;ملغ;COMPRIME ENROBE;أقراص مغلفة;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
+6118001270996;OXONE 1G/5 ML IM;أوكسون;CEFTRIAXONE;سيفترياكسون;1;G;غ;POUDRE POUR PREPARATION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON + AMPOULE;علبة واحدة تحتوي على قارورة واحدة + أمبولة واحدة
+6118000090922;SULFOBACTIN;سولفوباكتين;THIAMPHENICOL;ثيامفينيكول;500;MG;ملغ;COMPRIME;أقراص;1 BOITE 50 COMPRIME;علبة واحدة تحتوي على 50 قرصًا
+6118000060208;TRIATEC;ترياتيـك;RAMIPRIL;راميبريل;1.25;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000191094;CANDICID;كانديسيد;FLUCONAZOLE;فلوكونازول;150;MG;ملغ;GELULE;كبسولة;1 BOITE 4 GELULE;علبة واحدة تحتوي على 4 كبسولات
+6118001250509;TRINOMYC;ترينوميك;FLUCONAZOLE;فلوكونازول;2;MG;ملغ;SOLUTION POUR PERFUSION;محلول للتسريب الوريدي;1 FLACON 25 ML;قارورة واحدة 25 مل
+6118000020660;SPASMAG;سبازماج;MAGNESIUM SULFATE / LEVURE CEREVISIAE;كبريتات المغنيسيوم / خميرة السكيراء;1.2 / 100;G / MG;غ/ملغ;SOLUTION BUVABLE;محلول فموي;1 BOITE 30 AMPOULE BUVABLE;علبة واحدة تحتوي على 30 أمبولة فموية
+6118000140214;DOXINE;دوكسين;DOXYCYCLINE;دوكسيسيكلين;100;MG;ملغ;COMPRIME ENROBE;أقراص مغلفة;1 BOITE 5 COMPRIME;علبة واحدة تحتوي على 5 أقراص
+6118001260225;GONAL-F 150 UI;غونال-إف;FOLLITROPINE ALFA;فوليتروبين ألفا;150;UI;وحدة;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118001230174;DOPAMINE AGUETTANT 40MG/ML;دوبامين أغيتان;DOPAMINE;دوبامين;40;MG;ملغ;SOLUTION POUR PERFUSION;محلول للتسريب الوريدي;1 BOITE 50 AMPOULE INJECTABLE;علبة واحدة تحتوي على 50 أمبولة للحقن
+6118000030065;ALGANTIL;ألغانتيل;IBUPROFENE;إيبوبروفين;200;MG;ملغ;COMPRIME ENROBE;أقراص مغلفة;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
+6118001200054;GASTROGRAFINE;غاستروغرافيـن;AMIDOTRIZOATE DE MEGLUMINE ET DE SODIUM;أميدوتريزوات الميغلومين والصوديوم;370;MG;ملغ;SOLUTION BUVABLE OU RECTALE;محلول فموي أو شرجي;1 FLACON 100 ML;قارورة واحدة 100 مل
+6118001050567;TILCOTIL;تيلكوتيل;TENOXICAM;تينوكسيكام;20;MG;ملغ;SUPPOSITOIRE;تحميلة;1 BOITE 10 SUPPOSITOIRE;علبة واحدة تحتوي على 10 تحاميل
+6118010025082;PREMOCEFAL;بريمو سيفال;CEFADROXIL;سيفادروكسيل;500;MG;ملغ;POUDRE POUR SUSPENSION BUVABLE;مسحوق لتحضير معلق فموي;1 FLACON 60 ML;قارورة واحدة 60 مل
+6118000070979;MIBRAL;ميبرال;AMLODIPINE;أملوديبين;5;MG;ملغ;COMPRIME;أقراص;1 BOITE 60 COMPRIME;علبة واحدة تحتوي على 60 قرصًا
+6118010120329;SOLIAN 100 MG;سوليان;AMISULPRIDE;أميسولبرايد;100;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME SECABLE;علبة واحدة تحتوي على 30 قرصًا قابلاً للكسر
+6118001081776;SOLIAN 100 MG;سوليان;AMISULPRIDE;أميسولبرايد;100;MG;ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME SECABLE;علبة واحدة تحتوي على 30 قرصًا قابلاً للكسر
+6118001180707;COLPOTROPHINE;كولبوتروفين;PROMESTRIENE;بروميستريين;10;MG;ملغ;CAPSULE VAGINALE;كبسولة مهبلية;1 BOITE 20 CAPSULE GYNECOLOGIQUE;علبة واحدة تحتوي على 20 كبسولة نسائية (مهبلية)
+6118001270026;CARTEOL LP;كارتول;CARTEOLOL;كارتيلول;1;%;%;COLLYRE LP;قطرة عينية ممتدة المفعول;1 FLACON 3 ML;قارورة واحدة 3 مل
+6118000241171;BREXIN;بريكسين;PIROXICAM BETA CYCLODEXTRINE;بيروكسيكام بيتا سيكلودكسترين;20;MG;ملغ;COMPRIME EFFERVESCENT;أقراص فوّارة;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا فوّارًا
+6118001141074;SALBUMOL;سالبيمول;SALBUTAMOL;سالبوتامول;0.5;MG/ML;ملغ/مل;SOLUTION INJECTABLE;محلول للحقن;1 BOITE 6 AMPOULE INJECTABLE;علبة واحدة تحتوي على 6 أمبولات للحقن
+6118010126222;MEZOR 20 MG;ميزور;ESOMEPRAZOLE;إيزوميبرازول;20;MG;ملغ;GELULE GASTRO-RESISTANTE;كبسولة مقاومة لحمض المعدة;1 BOITE 14 GELULE GASTRO-RESISTANTE;علبة واحدة تحتوي على 14 كبسولة مقاومة لحمض المعدة
+6118000150084;BEROCCA;بيروكا;MULTIVITAMINES ET MINERAUX;فيتامينات متعددة ومعادن;;NA;غير متوفر / غير متوفر;COMPRIME EFFERVESCENT;أقراص فوّارة;1 BOITE 20 COMPRIME EFFERVESCENT;علبة واحدة تحتوي على 20 قرصًا فوّارًا
+6118000140863;ROXAM;روكسام;PIROXICAM;بيروكسيكام;20;MG;ملغ;SOLUTION INJECTABLE;محلول للحقن;1 BOITE 2 AMPOULE INJECTABLE;علبة واحدة تحتوي على 2 أمبولات للحقن
+6118001180776;DECAPEPTYL LP;ديكاببتيل;TRIPTORELINE;تريبتوريلين;11.25;MG;ملغ;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON + AMPOULE;علبة واحدة تحتوي على قارورة واحدة + أمبولة واحدة
+6118000031598;GRISEO SALICYLEE;غريزيو ساليسيلي;GRISEOFULVINE / ACIDE SALICYLIQUE;غريزيوفولفين / حمض الساليسيليك;5 / 3;% / %;%/%;POMMADE;مرهم;1 TUBE 15 G;أنبوب واحد 15 غرام
+6118000140818;IBUPHIL;إيبوفيل;IBUPROFENE;إيبوبروفين;2;%;%;SIROP;شراب;1 FLACON 100 ML;قارورة واحدة 100 مل
+6118001150687;CEPHYL;سيفيل;MULTIPLE;متعدد المكونات;;NA;غير متوفر / غير متوفر;COMPRIME;أقراص;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
+6118010000614;RISPERDAL;ريسبردال;RISPERIDONE;ريسبيريدون;2;MG;ملغ;COMPRIME PELLICULE SECABLE;أقراص مغلفة قابلة للكسر;1 BOITE 60 COMPRIME;علبة واحدة تحتوي على 60 قرصًا
+6118000120476;TOPSYNE APG;توبسين APG;FLUOCINONIDE;فلوسينونيد;0.05;%;%;POMMADE;مرهم;1 TUBE 15 G;أنبوب واحد 15 غرام
+6118001120543;LAMISIL;لاميزيل;TERBINAFINE;تيربينافين;1;%;%;CREME;كريم;1 TUBE 15 G;أنبوب واحد 15 غرام
+6118001080427;LANTUS;لانتوس;INSULINE HUMAINE;الإنسولين (الأنسولين) البشري;100;UI;وحدة;SOLUTION INJECTABLE LP;محلول للحقن ممتد المفعول;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118000050186;DIPROSALIC;ديبروساليك;BETAMETHASONE / ACIDE SALICYLIQUE;بيتاميثازون / حمض الساليسيليك;15 / 900;MG / MG;ملغ/ملغ;POMMADE;مرهم;1 TUBE 30 G;أنبوب واحد 30 غرام
+6118000290063;MODURETIC;مودوريتك;AMILORIDE / HYDROCHLOROTHIAZIDE;أميلوريد / هيدروكلوروثيازيد;5 / 50;MG / MG;ملغ/ملغ;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 30 COMPRIME;علبة واحدة تحتوي على 30 قرصًا
+6118000030515;SYSTRAL;سيسترال;CHLORPHENOXAMINE;كلورفينوكسامين;15;MG;ملغ;CREME;كريم;1 TUBE 20 G;أنبوب واحد 20 غرام
+6118000030508;SYSTRAL C;سيسترال س;CHLORPHENOXAMINE / CAFEINE;كلورفينوكسامين / كافيين;20 / 50;MG / MG;ملغ/ملغ;COMPRIME DRAGEIFIE;أقراص ملبسة ;1 BOITE 20 COMPRIME DRAGEFIE;علبة واحدة تحتوي على 20 قرصًا ملبسًا
+6118010119149;ACLASTA 5MG/100ML;أكلاستا;ACIDE ZOLEDRONIQUE;حمض الزوليدرونيك;5;MG/100ML;ملغ/100مل;SOLUTION POUR PERFUSION;محلول للتسريب الوريدي;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118001100538;PUREGON;بيوريغون;FOLLITROPINE BETA;فوليتروبين بيتا;50;UI;وحدة;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 AMPOULE INJECTABLE;علبة واحدة تحتوي على أمبولة واحدة للحقن
+6118000241713;BACTOX;باكتوكس;AMOXICILLINE;أموكسيسيلين;500;MG;ملغ;PREPARATION INJECTABLE;مستحضر للحقن;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118010019302;AVOCOMB;أفوكومب;LAMIVUDINE / ZIDOVUDINE;لاميفودين / زيدوفودين;150 / 300;MG / MG;ملغ/ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 60 COMPRIME;علبة واحدة تحتوي على 60 قرصًا
+6118000020257;ISOLONE;إيزولون;PREDNISOLONE;بريدنيزولون;50;MG;ملغ;COMPRIME;أقراص;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
+6118001071159;STRATTERA 40 MG;ستراتيرا;ATOMOXETINE;أتوموكستين;40;MG;ملغ;GELULE;كبسولة;1 BOITE 28 GELULE;علبة واحدة تحتوي على 28 كبسولة
+6118001121250;INSULINE MIXTARD 30 HM PENFILL;إنسولين ميكستارد 30 HM بنفيل;INSULINE HUMAINE;الإنسولين البشري;100;UI;وحدة;SUSPENSION INJECTABLE INTERMEDIAIRE;معلق للحقن متوسط المفعول;1 CARTOUCHE 3 ML;خرطوشة واحدة 3 مل
+6118010032813;GONAL-F 1050 UI;غونال-إف 1050 وحدة دولية;FOLLITROPINE ALFA;فوليتروبين ألفا;1050;UI;وحدة;POUDRE POUR SOLUTION INJECTABLE;مسحوق لتحضير محلول للحقن;1 BOITE 1 FLACON;علبة واحدة تحتوي على قارورة واحدة
+6118000032618;OXIFLOR;أوكسيفلور;OFLOXACINE;أوفلوكساسين;200;MG;ملغ;COMPRIME PELLICULE;أقراص مغلفة;1 BOITE 10 COMPRIME;علبة واحدة تحتوي على 10 أقراص
+6118001184125;OXALIPLATINE WIN 5 MG/ML;أوكساليبلاتين وين 5 ملغ/مل;OXALIPLATINE;أوكساليبلاتين;50;MG;ملغ;POUDRE POUR SOLUTION POUR PERFUSION;مسحوق لتحضير محلول للتسريب الوريدي;1 FLACON 36 ML;قارورة واحدة 36 مل
+6118000031895;PECTRYL;بكتريل;BROMHEXINE / SULFOGAICOLE;برومهيكسين / سلفوغايكول;40 / 4;MG / G;ملغ/غ;SIROP;شراب;1 FLACON 150 ML;قارورة واحدة 150 مل
+6118000070467;GENTAMICINE LLORENTE;جنتاميسين لورينتي;GENTAMICINE;جنتاميسين;120;MG;ملغ;SOLUTION INJECTABLE;محلول للحقن;1 BOITE 6 AMPOULE INJECTABLE;علبة واحدة تحتوي على 6 أمبولات للحقن
+6118001070589;THIOPENTAL BIOCHEMIE;ثيوبنتال بيوكيمي;THIOPENTAL;ثيوبنتال;1;G;غ;POUDRE POUR PREPARATION INJECTABLE;مسحوق لتحضير مستحضر للحقن;1 BOITE 25 FLACON;علبة واحدة تحتوي على 25 قارورة
+6118000190394;DOLAMINE;دولامين;PARACETAMOL / CAFEINE;باراسيتامول / كافيين;400 / 25;MG / MG;;COMPRIME SECABLE;أقراص قابلة للكسر;1 BOITE 20 COMPRIME;علبة واحدة تحتوي على 20 قرصًا
