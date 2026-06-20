@@ -78,7 +78,7 @@ Image de boîte
    └── Score < 50 → rejeté (médicament non reconnu)
       │
       ▼
-5. Réponse JSON (nom FR/AR, DCI, dosage, forme, présentation)
+5. Réponse JSON (nom FR/AR, DCI FR/AR, dosage FR/AR , forme FR/AR, présentation FR/AR)
 ```
 
 ---
